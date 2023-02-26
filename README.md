@@ -20,6 +20,7 @@
   </h1>
 </div>
 
+
 ### :man_technologist: About Me :
 I am a Computer Science graduating student from National Institute of Technology Karnataka, India
 - 😄 Pronouns: He/Him/His
@@ -29,6 +30,32 @@ I am a Computer Science graduating student from National Institute of Technology
   - Some of my coding handles: xyz
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shyam%20Sundar%20N%20R-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shyam-sundar-n-r-145649211/) [![Gmail Badge](https://img.shields.io/badge/-NRSHYAMSUNDAR@GMAIL.COM-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nrshyamsundar@gmail.com?subject=%22Mail%20from%20Github%20profile%20-%20%3Cadd%20your%20subject%20here%3E)
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  
+</div>
+
+
+- - - 
+
+<!--
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Shyam-NR?theme=dark)](https://leetcode.com/Shyam-NR) 
+-->
+
+#### Others : 
+- Codeforces, Codechef, Leetcode, Codepen, Codesandbox, Hackerrank
 
 <!--
 ### Hi there 👋
