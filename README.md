@@ -54,8 +54,11 @@ I am a Computer Science graduating student from National Institute of Technology
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Shyam-NR?theme=dark)](https://leetcode.com/Shyam-NR) 
 -->
 
-#### Others : 
+### :abacus: Coding profiles : 
 - [![](https://img.shields.io/badge/Codeforces-Shyam--NR-yellowgreen)](https://codeforces.com/profile/Shyam-NR) [![](https://img.shields.io/badge/Codechef-shyam_nr-yellowgreen)](https://www.codechef.com/users/shyam_nr) [![](https://img.shields.io/badge/Leetcode-Shyam--NR-yellowgreen)](https://leetcode.com/Shyam-NR/) [![](https://img.shields.io/badge/Codepen-Shyam--NR-yellowgreen)](https://codepen.io/shyam-nr) [![](https://img.shields.io/badge/Hackerrank-nrshyamsundar-yellowgreen)](https://www.hackerrank.com/nrshyamsundar) [![](https://img.shields.io/badge/Codesandbox-Shyam--NR-yellowgreen)](https://codesandbox.io/u/Shyam-NR)
+
+- - - 
+
 
 <!--
 ### Hi there 👋
