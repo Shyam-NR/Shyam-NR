@@ -27,10 +27,12 @@ I am a Computer Science graduating student from National Institute of Technology
 - 🌱 I’m currently exploring ReactJS framework and NodeJS
 - :zap: In my free time, I solve problems on leetcode and codeforces
   - Some of my coding handles: xyz
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shyam%20Sundar%20N%20R-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shyam-sundar-n-r-145649211/)
-### Hi there 👋
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shyam%20Sundar%20N%20R-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shyam-sundar-n-r-145649211/) [![Gmail Badge](https://img.shields.io/badge/-NRSHYAMSUNDAR@GMAIL.COM-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nrshyamsundar@gmail.com?subject=%22Mail%20from%20Github%20profile%20-%20%3Cadd%20your%20subject%20here%3E)
+
 
 <!--
+### Hi there 👋
+
 **Shyam-NR/Shyam-NR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
