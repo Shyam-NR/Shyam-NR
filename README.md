@@ -12,7 +12,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     -->
   </div>
+  <!--
   <img src="https://komarev.com/ghpvc/?username=Shyam-NR&style=flat-square&color=blue" alt=""/>
+  -->
   
   <h1>
     hey there
@@ -57,10 +59,12 @@ I am a Computer Science graduating student from National Institute of Technology
 ### :abacus: Coding profiles : 
 - [![](https://img.shields.io/badge/Codeforces-Shyam--NR-yellowgreen)](https://codeforces.com/profile/Shyam-NR) [![](https://img.shields.io/badge/Codechef-shyam_nr-yellowgreen)](https://www.codechef.com/users/shyam_nr) [![](https://img.shields.io/badge/Leetcode-Shyam--NR-yellowgreen)](https://leetcode.com/Shyam-NR/) [![](https://img.shields.io/badge/GFG-nrshyamsundar-yellowgreen)](https://auth.geeksforgeeks.org/user/nrshyamsundar/practice/) [![](https://img.shields.io/badge/Codepen-Shyam--NR-yellowgreen)](https://codepen.io/shyam-nr) [![](https://img.shields.io/badge/Hackerrank-nrshyamsundar-yellowgreen)](https://www.hackerrank.com/nrshyamsundar) [![](https://img.shields.io/badge/Codesandbox-Shyam--NR-yellowgreen)](https://codesandbox.io/u/Shyam-NR) 
 
+<!--
 - - - 
 
 ### :fire: My Stats :
-<!--
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shyam-NR&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
--->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam-NR&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
